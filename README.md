@@ -1,18 +1,30 @@
 # Leandro Menezes
 
-## Bem-vindo ao meu GitHub
+👋 Fala galera, sejam bem-vindos ao meu GitHub, meu nome é Leandro, trabalho como Analista de TI na UnB desde 2015.
 
-👋 Fala galera, meu nome é Leandro Menezes, trabalho como Analista de TI na UnB desde 2015. Sou programador desde 2008, iniciei em Delphi, trabalhei com Visual Basic, hoje sou programador Java, mas já conheci ActionScript, PHP e Python. Atualmente estou me aventurando em HTML 5, CSS 3, Angular e Typescript. Conheço bancos de dados relacionais e algumas linguagens como T-SQL e PSQL.
+Você também pode me encontrar no GitLab e no LinkedIn
+
+<a href="https://gitlab.com/Bambatera" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab" height="30" />
+</a> <a href="https://www.linkedin.com/in/leandromenezessilva" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" />
+</a>
+
+## Sobre mim
+
+Sou programador desde 2008, iniciei em Delphi, trabalhei com Visual Basic, hoje sou programador Java, mas já conheci ActionScript, PHP e Python. Atualmente estou me aventurando em HTML 5, CSS 3, Angular e Typescript. Conheço bancos de dados relacionais e algumas linguagens como T-SQL e PSQL.
 
 Hoje estou envolvido na implementação da integração do Login Único gov.br para os serviços oferecidos pela Universidade, além de estar projetando um SSO para todos os sistemas geridos pela Secretaria de Tecnologia da Informação.
 
-## Meus conhecimentos atuais
+## Tecnologias
 
-* Java
-* VisualBasic 6
-* MS SQL
-* PostgreSQL
-* MySQL
+Atualmente tenho experiências com as tecnologias
+
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" /> Java
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="20" /> VisualBasic 6
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="20" /> MS SQL
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20" /> PostgreSQL
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" /> MySQL
 
 ## Estou aprendendo
 
