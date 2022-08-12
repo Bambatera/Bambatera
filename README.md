@@ -1,8 +1,8 @@
 # Leandro Menezes
 
-👋 Fala galera, meu nome é Leandro Menezes, sou Analista de Tecnologia da Informação na Universidade de Brasília.
-Atualmente trabalho desenvolvendo soluções em Java com SpringBoot e Angular e realizando manutenção de aplicações para web desenvolvidas em Java e aplicações em VisualBasic 6.
-Tenho experiência com bancos de dados SQL Server 2008 R2, PostgreSQL e MySQL.
+## Bem-vindo ao meu GitHub
+
+👋 Fala galera, meu nome é Leandro Menezes, trabalho como Analista de TI na UnB desde 2015. Sou programador desde 2008, iniciei em Delphi, trabalhei com Visual Basic, hoje sou programador Java, mas já conheci ActionScript, PHP e Python. Atualmente estou me aventurando em HTML 5, CSS 3, Angular e Typescript. Conheço bancos de dados relacionais e algumas linguagens como T-SQL e PSQL.
 
 Hoje estou envolvido na implementação da integração do Login Único gov.br para os serviços oferecidos pela Universidade, além de estar projetando um SSO para todos os sistemas geridos pela Secretaria de Tecnologia da Informação.
 
@@ -13,14 +13,14 @@ Hoje estou envolvido na implementação da integração do Login Único gov.br p
 * MS SQL
 * PostgreSQL
 * MySQL
-* SpringBoot
-* Angular
-* HTML 5
-* CSS 3
 
 ## Estou aprendendo
 
 * Git
+* SpringBoot
+* Angular
+* HTML 5
+* CSS 3
 * Python
 * TypeScript
 
