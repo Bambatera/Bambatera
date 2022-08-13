@@ -2,52 +2,53 @@
 
 👋 Fala galera, sejam bem-vindos ao meu GitHub, meu nome é Leandro, trabalho como Analista de TI na UnB desde 2015.
 
-Você também pode me encontrar no GitLab e no LinkedIn
-
-<a href="https://gitlab.com/Bambatera" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab" height="30" />
-</a> <a href="https://www.linkedin.com/in/leandromenezessilva" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" />
-</a>
-
 ## Sobre mim
 
 Sou programador desde 2008, iniciei em Delphi, trabalhei com Visual Basic, hoje sou programador Java, mas já conheci ActionScript, PHP e Python. Atualmente estou me aventurando em HTML 5, CSS 3, Angular e Typescript. Conheço bancos de dados relacionais e algumas linguagens como T-SQL e PSQL.
 
-Hoje estou envolvido na implementação da integração do Login Único gov.br para os serviços oferecidos pela Universidade, além de estar projetando um SSO para todos os sistemas geridos pela Secretaria de Tecnologia da Informação.
-
-## Tecnologias
-
-Atualmente tenho experiências com as tecnologias
-
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" /> Java
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="20" /> VisualBasic 6
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="20" /> MS SQL
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20" /> PostgreSQL
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" /> MySQL
-
-## Estou aprendendo
-
-* Git
-* SpringBoot
-* Angular
-* HTML 5
-* CSS 3
-* Python
-* TypeScript
-
-## Pretendo aprender
-
-* Javascript
-* C#
-
-## Minha Formação Acadêmica
+### Formação
 
 Sou graduado em Tecnologia em Segurança da Informação pelo [Centro Universitário ICESP](https://www.linkedin.com/school/centrouniversitarioicesp/) e possuo especialização em Desenvolvimento de Software pela [Faculdade Focus](https://www.linkedin.com/school/faculdadefocus/).
 
-## Meu Resumo Profissional
+### Resumo Profissional
 
-Desde 2003 trabalho com Tecnologia da Informação, iniciei como Técnico de Suporte nível IV na antiga [CTIS](https://www.linkedin.com/company/ctis/), Linknet Tecnologia e [Poliedro](https://www.linkedin.com/company/poliedro/), posteriormente trabalhei como Operador de Microcomputador na [Rede Tatico de Supermercados](https://www.linkedin.com/company/rede-tatico-de-supermercados), depois como Analista Programador Júnior na [VF Tecnologia](https://www.linkedin.com/company/vf-tecnologia---solu-es-em-tecnologia-da-informa-o/about/), depois como Programador Java Júnior no [Hospital Urológico de Brasília](https://www.linkedin.com/company/hospital-urol-gico-de-bras-lia/), em seguida como Analista de Sistemas Java na [INFOSOLO IT Organizational Solutions](https://www.linkedin.com/company/logoitbr/) e, atualmente, Analista de Tecnologia da Informação na [Universidade de Brasília](https://www.linkedin.com/school/universidade-de-bras-lia/mycompany/).
+Desde 2003 trabalho com Tecnologia da Informação, iniciei como Técnico de Suporte Nível IV, posteriormente trabalhei como Operador de Microcomputador, depois como Analista Programador Júnior, depois como Programador Java Júnior, em seguida como Analista de Sistemas Java e, atualmente, Analista de Tecnologia da Informação.
+
+Hoje estou envolvido na implementação da integração do Login Único gov.br para os serviços oferecidos pela Universidade, além de estar projetando um SSO para todos os sistemas geridos pela Secretaria de Tecnologia da Informação.
+
+## Redes Sociais
+
+Não sou muito ativo nas redes sociais, mas você pode me encontrar meu curriculo no 
+<a href="https://www.linkedin.com/in/leandromenezessilva" target="_blank" alt="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" />
+    LinkedIn
+</a>
+e alguns projetos aqui e no 
+<a href="https://gitlab.com/Bambatera" target="_blank" alt="GitLab">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" height="30" />
+    GitLab
+</a> 
+
+
+## Tecnologias
+
+| Experiências | Estudando | Interesses |
+| ------------ | --------- | ---------- |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" /> Java | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" /> Git | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" /> Python |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="20" /> VisualBasic 6 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" /> TypeScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="20" /> .NET |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="20" /> MS SQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="20" /> Angular | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="20" /> Android |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20" /> PostgreSQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" /> CSS 3 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" /> C
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" /> MySQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" /> HTML 5 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" /> C++ |
+|| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="20" /> Bootstrap | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20" /> C#
+|| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="20" /> SpringBoot | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" /> Javascript |
+
+## Contribuições
+
+Até o momento, não estou contribuindo com nenhum projeto, mas estou focado em um projeto próprio que logo disponibilizarei aqui.
+
+## Contato
+
+Para entrar em contato comigo, pode me procurar diretamente no LinkedIn, estou aberto a *"freelas"* em *Home Office*.
 
 <!---
 - 👋 Hi, I’m @Bambatera
