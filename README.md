@@ -29,7 +29,6 @@ e alguns projetos aqui e no
     GitLab
 </a> 
 
-
 ## Tecnologias
 
 | Experiências | Estudando | Interesses |
@@ -41,6 +40,10 @@ e alguns projetos aqui e no
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" /> MySQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" /> HTML 5 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" /> C++ |
 || <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="20" /> Bootstrap | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20" /> C#
 || <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="20" /> SpringBoot | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" /> Javascript |
+
+## Este repositório
+
+Este repositório eu utilizo para guardar os projetos que desenvolvo em meus estudos, normalmente ficam "jogados" aqui, mas para alguns, possuo algumas ideias para evoluí-los...
 
 ## Contribuições
 
