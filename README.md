@@ -1,6 +1,8 @@
-# Leandro Menezes <a href="https://www.linkedin.com/in/leandromenezessilva" target="_blank" alt="LinkedIn" style="float: right; margin: 0 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" /></a> <a href="https://gitlab.com/Bambatera" target="_blank" alt="GitLab" style="float: right; margin: 0 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" height="30" /></a> <a href="https://github.com/Bambatera" target="_blank" alt="GitHub" style="float: right; margin: 0 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" /></a>
+# Leandro Menezes <span style="float: right;"><a href="https://www.linkedin.com/in/leandromenezessilva" target="_blank" alt="LinkedIn" style="margin: 0 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" /></a> <a href="https://gitlab.com/Bambatera" target="_blank" alt="GitLab" style="margin: 0 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" height="30" /></a> <a href="https://github.com/Bambatera" target="_blank" alt="GitHub" style="margin: 0 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" /></a></span>
 
-## <p style="text-align: center;">Analista de Tecnologia da Informação | Desenvolvedor FullStack | Angular | Java</p>
+<p style="text-align: center;">
+    Analista de Tecnologia da Informação | Desenvolvedor FullStack | Angular | Java
+</p>
 
 ## Sobre mim
 
